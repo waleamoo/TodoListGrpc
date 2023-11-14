@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DeFJvRivCZ4RRsqx6AhLzQHN8yRyyPrB0qxJ105PEyA=",
+  "Source": "TodoListGrpc",
+  "BasePath": "_content/TodoListGrpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
